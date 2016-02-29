@@ -3,8 +3,8 @@
 /**
  * @author __MadHatter (alias used on https://www.reddit.com/r/dailyprogrammer)
  *
- * [2016-02-17] Challenge #254 [Intermediate] Finding Legal Reversi Moves
- * https://www.reddit.com/r/dailyprogrammer/comments/468pvf/20160217_challenge_254_intermediate_finding_legal/
+ * [2016-02-29] Challenge #256 [Easy] Oblique and De-Oblique
+ * https://www.reddit.com/r/dailyprogrammer/comments/48a4pu/20160229_challenge_256_easy_oblique_and_deoblique/
  */
 
 import java.util.ArrayList;
